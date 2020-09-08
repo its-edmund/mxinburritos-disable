@@ -37,7 +37,7 @@
   <img src="icons/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
   <img src="icons/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxinburritos&hide=css@theme=synthwave)](https://github.com/mxinburritos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxinburritos&hide=css&theme=synthwave)](https://github.com/mxinburritos)
 
 ---
 
