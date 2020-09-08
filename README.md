@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm Edmund Xin <img src="https://media.giphy.com/media/ZCM2FuiUVflBu/giphy.gif">
+    I'm Edmund Xin <img src="https://media.giphy.com/media/ZCM2FuiUVflBu/giphy.gif" width="30px">
     <br><br>
     I am 18 years old and I am a Computer Science major at the Georgia Institute of Technology. I aspire to become a software engineer in the future.
     <br><br>
