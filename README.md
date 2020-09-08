@@ -51,6 +51,7 @@
 
 </details>
 
+<samp>
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
@@ -63,7 +64,7 @@
 </p>
 
 <p align="center">
-  <i> Let me know if you want to talk! :grin: </i>
+  <i> Have a nice day! :grin: </i>
 </p>
 
 <br>
@@ -71,3 +72,5 @@
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
 </p>
+
+</samp>
