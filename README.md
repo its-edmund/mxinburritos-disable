@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img src="https://giphy.com/gifs/L3Vca26EaTIEU" width="30%">
   <br><br>
   <samp>
-    I'm Edmund Xin :wave:
+    I'm Edmund Xin <img src="https://giphy.com/gifs/ZCM2FuiUVflBu">
     <br><br>
     I am 18 years old and I am a Computer Science major at the Georgia Institute of Technology. I aspire to become a software engineer in the future.
     <br><br>
-    I like dogs, programming, and staying hydrated!
+    I like dogs, programming, and mountain biking!
     <br><br>
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
@@ -19,7 +19,7 @@
   
   <br>
   
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=mxinburritos&show_icons=true&theme=synthwave)](https://github.com/mxinburritos)
+  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=mxinburritos&show_icons=true&theme=onedark)](https://github.com/mxinburritos)
 
 ---
 
@@ -37,7 +37,7 @@
   <img src="icons/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
   <img src="icons/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxinburritos&hide=css&theme=synthwave)](https://github.com/mxinburritos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxinburritos&hide=css&theme=onedark)](https://github.com/mxinburritos)
 
 ---
 
@@ -45,8 +45,8 @@
 
 ### - Active Repos ...
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mxinburritos&repo=game-of-life&theme=synthwave)](https://github.com/mxinburritos/game-of-life)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mxinburritos&repo=personal-website&theme=synthwave)](https://github.com/mxinburritos/personal-website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mxinburritos&repo=game-of-life&theme=onedark)](https://github.com/mxinburritos/game-of-life)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mxinburritos&repo=personal-website&theme=onedark)](https://github.com/mxinburritos/personal-website)
 
 ---
 
