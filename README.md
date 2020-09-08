@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/L3Vca26EaTIEU" width="30%">
+  <img src="https://giphy.com/embed/L3Vca26EaTIEU" width="30%">
   <br><br>
   <samp>
-    I'm Edmund Xin <img src="https://giphy.com/gifs/ZCM2FuiUVflBu">
+    I'm Edmund Xin <img src="https://giphy.com/embed/L3Vca26EaTIEU">
     <br><br>
     I am 18 years old and I am a Computer Science major at the Georgia Institute of Technology. I aspire to become a software engineer in the future.
     <br><br>
@@ -29,13 +29,13 @@
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-  <img src="icons/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="icons/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="icons/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="icons/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="icons/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="icons/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
-  <img src="icons/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/mxinburritos/mxinburritos/tree/master/icons/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/mxinburritos/mxinburritos/tree/master/icons/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/mxinburritos/mxinburritos/tree/master/icons/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/mxinburritos/mxinburritos/tree/master/icons/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/mxinburritos/mxinburritos/tree/master/icons/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/mxinburritos/mxinburritos/tree/master/icons/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/mxinburritos/mxinburritos/tree/master/icons/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxinburritos&hide=css&theme=onedark)](https://github.com/mxinburritos)
 
@@ -57,10 +57,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edmundxin"><img src="icons/social/linkedin.svg" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/edmund.xin"><img src="icons/social/instagram.svg" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/mxinburritos"><img src="icons/social/twitter.svg" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="mailto:markxin2002@gmail.com"><img src="icons/social/email_me.svg" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/edmundxin"><img src="https://github.com/mxinburritos/mxinburritos/tree/master/icons/social/linkedin.svg" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/edmund.xin"><img src="https://github.com/mxinburritos/mxinburritos/tree/master/icons/social/instagram.svg" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/mxinburritos"><img src="https://github.com/mxinburritos/mxinburritos/tree/master/icons/social/twitter.svg" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="mailto:markxin2002@gmail.com"><img src="https://github.com/mxinburritos/mxinburritos/tree/master/icons/social/email_me.svg" alt="Twitter">     </a> &nbsp; &nbsp;
 </p>
 
 <p align="center">
