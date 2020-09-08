@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif" width="30%">
   <br><br>
   <samp>
     I'm Edmund Xin <img src="https://media.giphy.com/media/ZCM2FuiUVflBu/giphy.gif" width="30px">
