@@ -1,6 +1,6 @@
+<samp>
 <p align="center">
   <br><br>
-  <samp>
     I'm Edmund Xin <img src="https://media.giphy.com/media/ZCM2FuiUVflBu/giphy.gif" width="30px">
     <br><br>
     I am 18 years old and I am a Computer Science major at the Georgia Institute of Technology. I aspire to become a software engineer in the future.
@@ -8,7 +8,6 @@
     I like dogs, programming, and mountain biking!
     <br><br>
     P.S. I do know that HTML is not a programming language! :v:
-  </samp>
 </p>
 
 <br>
@@ -51,7 +50,6 @@
 
 </details>
 
-<samp>
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
