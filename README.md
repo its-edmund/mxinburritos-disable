@@ -37,7 +37,7 @@
   <img src="icons/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
   <img src="icons/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxinburritos)](https://github.com/mxinburritos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxinburritos&hide=css@theme=synthwave)](https://github.com/mxinburritos)
 
 ---
 
@@ -45,8 +45,8 @@
 
 ### - Active Repos ...
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mxinburritos&repo=game-of-life)](https://github.com/mxinburritos/game-of-life)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mxinburritos&repo=personal-website)](https://github.com/mxinburritos/personal-website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mxinburritos&repo=game-of-life&theme=synthwave)](https://github.com/mxinburritos/game-of-life)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mxinburritos&repo=personal-website&theme=synthwave)](https://github.com/mxinburritos/personal-website)
 
 ---
 
@@ -57,10 +57,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edmundxin"><img src="icons/social/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/edmund.xin"><img src="icons/social/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/mxinburritos"><img src="icons/social/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="mailto:markxin2002@gmail.com"><img src="icons/social/email_me.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/edmundxin"><img src="icons/social/linkedin.svg" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/edmund.xin"><img src="icons/social/instagram.svg" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/mxinburritos"><img src="icons/social/twitter.svg" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="mailto:markxin2002@gmail.com"><img src="icons/social/email_me.svg" alt="Twitter">     </a> &nbsp; &nbsp;
 </p>
 
 <p align="center">
