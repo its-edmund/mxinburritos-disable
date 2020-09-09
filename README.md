@@ -3,11 +3,10 @@
   <br><br>
     I'm Edmund Xin <img src="https://media.giphy.com/media/ZCM2FuiUVflBu/giphy.gif" width="30px">
     <br><br>
-    I am 18 years old and I am a Computer Science major at the Georgia Institute of Technology. I aspire to become a software engineer in the future.
+    I am 18 years old and I am a Computer Science major at the Georgia Institute of Technology. I'm interested in web development and mobile application development. I aspire to become a software engineer in the future.
     <br><br>
-    I like dogs, programming, and mountain biking!
+    I like dogs, programming, and mountain biking! :bike:
     <br><br>
-    P.S. I do know that HTML is not a programming language! :v:
 </p>
 
 <br>
@@ -68,7 +67,7 @@
 <br>
 
 <p align="center">
-  Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
+  Made with :blue_heart: using GitHub Markdown :arrow_down:
 </p>
 
 </samp>
