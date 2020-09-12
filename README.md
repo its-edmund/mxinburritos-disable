@@ -42,8 +42,7 @@
 
 ### - Active Repos ...
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mxinburritos&repo=game-of-life&theme=onedark)](https://github.com/mxinburritos/game-of-life)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mxinburritos&repo=personal-website&theme=onedark)](https://github.com/mxinburritos/personal-website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mxinburritos&repo=cool-kid-alert&theme=onedark)](https://github.com/mxinburritos/cool-kid-alert)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mxinburritos&repo=twitter-categorization-api&theme=onedark)](https://github.com/mxinburritos/twitter-categorization-api)
 
 ---
